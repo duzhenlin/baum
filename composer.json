@@ -1,8 +1,15 @@
 {
-  "name": "baum/baum",
+  "name": "duzhenlin/baum-fix",
   "type": "library",
-  "description": "Baum is an implementation of the Nested Set pattern for Eloquent models.",
-  "keywords": ["nested set", "laravel", "laravel 4", "laravel 5", "eloquent", "database"],
+  "description": "Baum is an implementation of the Nested Set pattern for Eloquent models.fix for 5.8",
+  "keywords": [
+    "nested set",
+    "laravel",
+    "laravel 4",
+    "laravel 5",
+    "eloquent",
+    "database"
+  ],
   "license": "MIT",
   "authors": [
     {
